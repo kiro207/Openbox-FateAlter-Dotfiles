@@ -1,0 +1,37 @@
+#Fate(FateAlter-Dotfile)Theme
+[global]
+font = "Comfotaa Regular 10"
+short = yes 
+geometry = "300x4-25+25"
+alignment = center
+separator_height = 4
+padding = 10
+corner_radius = 10
+horizontal_padding = 20
+separator_color = frame
+startup_notification = false
+
+[frame]
+width = 1
+color = "#6287ff"
+
+[urgency_low]
+timeout = 3
+background = "#30353d"
+foreground = "#6287ff"
+highlight = "#ffffff"
+
+[urgency_normal]
+timeout = 6
+background = "#30353d"
+foreground = "#6287ff"
+highlight = "#ffffff"
+
+[urgency_critical]
+timeout = 0
+background = "#30353d"
+foreground = "#6287ff"
+highlight = "#ffffff"
+
+[FateAlter]
+appname = "FateAlter"
