@@ -1,9 +1,14 @@
-o-o-o-o-o-o-o-o-o-o-o-o
-|  FateAlter-Dotfile  |
-o-o-o-o-o-o-o-o-o-o-o-o
-![]
 
-**Fate Solo Fate un dotfile de Fate y no solo eso, Alter Saber 0w0**
+## |  FateAlter-Dotfile    |
+
+-------------------------------------------------------------------------------------------
+
+![Preview](https://github.com/kiro207/Openbox-FateAlter-Dotfiles/blob/master/Preview.png)
+
+![Preview2](https://github.com/kiro207/Openbox-FateAlter-Dotfiles/blob/master/Preview2.png)
+
+**Fate Solo Fate un dotfile de Fate y no solo eso,  Alter Saber 0w0**
+
 **Usé archivos de Internet de nuevo XD**
 
 ### Setup
